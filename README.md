@@ -1,37 +1,38 @@
 ![img.png](./static/img/banner-linkedin.png)
 
 <div align="center">
-    <h2>Hi there, I'm Arthur!</h2>
-    <a href="https://www.linkedin.com/in/arthur-hovhannisyan-68750992/" target="_blank">
+    <h2>👋 Hi, I'm Arthur Hovhannisyan</h2>
+    <a href="http://linkedin.com/in/arthurhovhannisyan" target="_blank">
         <img src="./static/img/icons8-linkedin-circled-48.png" />
     </a>
     <h3>
-        Passionate software developer. Rust enthusiast. Frontend lead. 
+        Rust & Frontend Lead Engineer | Yerevan, Armenia 
     </h3>
 </div>
 
-I am a **Full-Stack Engineer** specializing in **Rust**, with over 8 years of experience engineering
-high-performance web applications, low-latency distributed systems, and type-safe frontends.
+🚀 Strategically transitioning from frontend leadership to Rust systems and backend infrastructure. 
+I build high-performance, memory-safe tools and distributed workspaces.
 
-
-🎓 Graduate of the intensive 6-month Rust Systems Fellowship at Yandex Practicum.
-
----
-
-### 🚀 What I Do:
-- **High-Performance Backend:** Architecting robust async services using Tokio, Actix/Axum, HTTP and gRPC.
-- **Systems Programming:** Designing runtime plugin systems with Rust FFI and C ABI boundaries.
-- **Modern Frontend & Wasm:** Deploying WebAssembly to bring native performance to the browser.
-- **CI/CD & Automation:** Building local workflows and GitHub Actions pipelines that maximize team developer experience (DX).
+🎓 Graduate of the intensive 6-month Rust course at Yandex Practicum.
 
 ---
+🛠️ Technical Toolkit
+- Languages: Rust, TypeScript, WebAssembly, Bash
+- Backend: gRPC (Tonic), REST (Actix, Axum), SQLx, PostgreSQL
+- Safety/Perf: Miri (concurrency checking), Criterion (benchmarking), Valgrind
+- DevOps: Custom CI/CD (GitHub Actions), Docker, Protobuf/OpenAPI
 
-### 🛠️ Systems & Backend Tech Stack
+📂 Featured Projects
+- [Distributed Blog Service](https://github.com/arthurhovhannisyan31/blog): A full-stack Rust workspace using Tokio, Tonic (gRPC), and Dioxus (Wasm) for end-to-end type safety.
+- [Image Processing Engine](https://github.com/arthurhovhannisyan31/image-editor): A high-performance CLI utilizing FFI/C ABI to manipulate large-scale binary data through Rust's ownership model.
+- [Real-time Streaming application](https://github.com/arthurhovhannisyan31/stocks): Engineered a reliable data streaming application over TCP/UDP with active health checks.
 
-- **Systems & Infrastructure:** Rust (Tokio, Async Runtimes), WebAssembly (Wasm), Rust FFI and C ABI, Bash, Docker
-- **Backend & Network:** gRPC (Tonic), Protobuf, SQLx, PostgreSQL, TCP/UDP Protocols, REST (Actix, Axum)
-- **Profiling & Diagnostics:** Miri, Valgrind, Criterion, Runtime Profiling
-- **Automation & CI/CD:** GitHub Actions (Custom CI pipelines & local validation workflows)
+🌱 Currently Exploring
+- Secure, high-throughput systems-level programming.
+- Advanced asynchronous runtimes and low-level network protocols.
+- Performant backend services.
+
+📫 Connect with me: [LinkedIn](http://linkedin.com/in/arthurhovhannisyan) | arthurhovhannisyan31@gmail.com
 
 ---
 
