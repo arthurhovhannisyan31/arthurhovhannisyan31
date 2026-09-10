@@ -20,9 +20,10 @@ I build high-performance, memory-safe tools and distributed workspaces.
 - Languages: Rust, TypeScript, WebAssembly, Bash
 - Backend: gRPC (Tonic), REST (Actix, Axum), SQLx, PostgreSQL
 - Safety/Perf: Miri (concurrency checking), Criterion (benchmarking), Valgrind
-- DevOps: Custom CI/CD (GitHub Actions), Docker, Protobuf/OpenAPI
+- DevOps: SSH, SCP, Custom CI/CD (GitHub Actions), Docker, Protobuf/OpenAPI
 
 📂 Featured Projects
+- [Video Processing](https://github.com/arthurhovhannisyan31/video_processing_app): -> [videoprocessing.app](https://www.videoprocessing.app/video) Full-stack video processing app with a Rust/Axum API and Next.js client - upload, inspect (ffprobe), and process (ffmpeg) videos with live job progress over WebSocket.
 - [Distributed Blog Service](https://github.com/arthurhovhannisyan31/blog): A full-stack Rust workspace using Tokio, Tonic (gRPC), and Dioxus (Wasm) for end-to-end type safety.
 - [Image Processing Engine](https://github.com/arthurhovhannisyan31/image-editor): A high-performance CLI utilizing FFI/C ABI to manipulate large-scale binary data through Rust's ownership model.
 - [Real-time Streaming application](https://github.com/arthurhovhannisyan31/stocks): Engineered a reliable data streaming application over TCP/UDP with active health checks.
